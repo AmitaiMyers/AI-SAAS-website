@@ -1,4 +1,4 @@
-import {ChatCompletionRequestMessage, Configuration, OpenAIApi} from "openai";
+import { Configuration, OpenAIApi} from "openai";
 import {auth} from "@clerk/nextjs";
 import {NextResponse} from "next/server";
 import {increaseApiLimit,checkApiLimit} from "../../../lib/api-limit";
