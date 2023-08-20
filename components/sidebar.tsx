@@ -68,7 +68,7 @@ const Sidebar = ({ apiLimitCount = 0 }: SidebarProps) => {
                         <Image fill alt="Logo" src="/banjo.png"/>
                     </div>
                     <h1 className={cn("text-2xl font-bold", montserrat.className)}>
-                        Banjo
+                        BANJO
                     </h1>
                 </Link>
                 <div className="space-y-1">
