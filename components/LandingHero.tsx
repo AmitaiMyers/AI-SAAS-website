@@ -31,7 +31,7 @@ export const LandingHero = () => {
             </div>
             <div>
                 <Link href={isSignedIn ? "/dashboard" : "/sing-up"}>
-                    <Button variant="secondary" className="md:text-lg p-4 md:p-6 founded-full font-semibold">
+                    <Button variant="premium" className="md:text-lg p-4 md:p-6 founded-full font-semibold">
                     Start Generating
                     </Button>
                 </Link>
