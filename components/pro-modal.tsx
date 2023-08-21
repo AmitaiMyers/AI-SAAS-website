@@ -45,7 +45,6 @@ const tools = [
 
 ]
 
-
 export const ProModal = () => {
     const proModal = useProModal();
 
